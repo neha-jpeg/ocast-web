@@ -1,10 +1,10 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://admiring-poincare-ee7602.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "OCAST"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -20,37 +20,37 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 3
+URL = "about"
+name = "about"
+weight = 1
 [[menu.main]]
 URL = "services"
 name = "services"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+URL = "portfolio"
+name = "portfolio"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "themefisher"
-weight = 1
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
